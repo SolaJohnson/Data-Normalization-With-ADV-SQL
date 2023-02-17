@@ -8,5 +8,5 @@ The Bhejane trading store is an online retailer specialising in Covid essential 
 My task in this project is to transform the database such that is in third normal form (3NF). 
 
 ### Data Description
-![Data-description](/img/data-desc.PNG)
+![Data-description](/img/data_desc.PNG)
 
